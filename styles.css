@@ -1,0 +1,44 @@
+body {
+  background-image: url("images/background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: monospace;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+button {
+  font-size: 20px;
+  padding: 15px 25px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  margin-left: 42%;
+}
+
+#message {
+  border: solid white 4px;
+  border-radius: 5px;
+  display: none;
+}
+
+h3 {
+  color: white;
+  font-size: 20px;
+  margin-left: 120px;
+}
+
+#btn-reset {
+  display: none;
+  margin-left: 45%;
+}
+
+img {
+  margin-left: 20px;
+  margin-top: 20px;
+}
